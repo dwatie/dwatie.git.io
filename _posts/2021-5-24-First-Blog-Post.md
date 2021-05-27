@@ -1,0 +1,9 @@
+---
+layout: post
+title: Blog Post 1
+---
+
+After reading the articles on data science, I learned a few things about it. The first thing I learned is what data is and the differences between it and statistics. Data science is the description, prediction, and causal inference from both structured and unstructured data. There are a few differences between that and statistics, to name one, statistics typically rely on smaller-scale methods of data collection, such as surveys, polls, and experiments. As for data science, it often has massive data sets, so the data scientists spend a lot of time with large-scale data ingest, data cleansing, and transformation. Data science uses multiple learning machine algorithms and uses the one with the most accurate predictions. Although data science and statistics can be used independently, they often overlap and strengthen each other. The major duties of data scientists are not only to be able to use the learning machines and predict accuracy but to be able to explain the results to the general public in a way that they understand the numbers. That is where the model evaluation and the data storytelling piece of the data science process become invaluable. After reading up on the differences between being a statistician and a data scientist, up to this point, I have identified with being a statistician more so than being a data scientist because through all the schooling I have completed, I have been using linear regression, sampling, experimental designs, confidence intervals, and p-values. I have not learned to use learning machines and the data science processes. 
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
