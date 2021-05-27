@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![DiontePic.jpg](desktop/DiontePic.jpg)
+![DiontePic](https://user-images.githubusercontent.com/84879355/119750313-09c8de00-be67-11eb-92a6-fb792e1b311c.jpg)
 
 # My name is: Dionte Watie
 ## Little background info...  
