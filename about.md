@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+![](desktop/DiontePic.jpg)
 
-Some information about you!
+# My name is: Dionte Watie
+## About Me...  
+I am originally from San Diego, CA. I am a military kid so I moved around and was fortunate enough to experience different places. I have a Bachelors degree in Mathematics from Winston Salem State University. I am currently pursuing my Masters Degree in Statistics from North Carolina State University.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:dwatie@ncsu.edu)
