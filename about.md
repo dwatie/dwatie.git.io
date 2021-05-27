@@ -12,4 +12,4 @@ I am originally from San Diego, CA. I am a military kid so I moved around and wa
 
 ### Contact me
 
-[email@domain.com](mailto:dwatie@ncsu.edu)
+[dwatie@ncsu.edu](mailto:dwatie@ncsu.edu)
